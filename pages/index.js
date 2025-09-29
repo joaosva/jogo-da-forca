@@ -59,7 +59,7 @@ export default function Home() {
   return (
     <div className="page">
       <header>
-        <h1>Jogo da Forca</h1>
+        <h1>Jogo da Forca Prog Web</h1>
         <p className="subtitle">Adivinhe a palavra antes que o boneco seja completado</p>
       </header>
 
@@ -125,7 +125,7 @@ export default function Home() {
       </main>
 
       <footer>
-        <p>Feito com ❤️ • Reinicie para uma nova palavra aleatória</p>
+        <p>Reinicie para uma nova palavra aleatória</p>
       </footer>
     </div>
   )
